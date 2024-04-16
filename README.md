@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences: **[Thientrinh's CV](https://www.topcv.vn/xem-cv/B1JVUQAOUAMBUlUGBwgGCgJcU1IBAAYFAVMAUAd954)**
 
-- ⚡ Fun fact: all my account IDs are namanh11611
+- ⚡ My site: it.trinhthanhthien.id.vn
 
 <h3 align="left">👀 Connect with me:</h3>
 <p align="left">
