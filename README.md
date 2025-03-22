@@ -1,9 +1,9 @@
-<h1 align="center">Hi there 👋, I'm Thien Trinh</h1>
-<h3 align="center">A passionate Microsoft 365 Engineer from Vietnam</h3>
+<h1 align="center">Hi there 👋, I'm Thien Trinh and working as an Endpoint engineer from Vietnam</h1>
+<h3 align="center"> I’ve been working on MDM technologies for more than 3 years. Yes, it’s been quite a journey! During this time, I’ve acquired skills in Cloud technologies like Intune, Jamf, Airwatch, ABM to name a few. In more recent times, I’ve focused on fine-tuning my expertise in the cloud 🌦️. I’ve been learning about Microsoft 365, Microsoft Intune, Jamf, Tanium, Okta, Powershell and Bash script What I find really exciting is troubleshooting problems and making things simpler for everyone.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Thien1n&label=Profile%20views&color=0e75b6&style=flat" alt="Thien1n" /> </p>
 
-- 🌱 I’m currently working on **Microsoft 365**, **Microsoft Intune**, **Airwatch (MDM)** and **Microsoft Defender (Security)**
+- 🌱 I’m fairly familiar with **Microsoft 365**, **Microsoft Intune**, **Jamf Pro**, **ABM**, **Airwatch, **Tanium (MDM)**, **Microsoft Defender (Security)** and **Okta (IdP)**
 
 - 📫 How to reach me: **trinhthanhthien6.it@gmail.com**
 
@@ -27,6 +27,8 @@
 <a href="https://security.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/48/office-365-security--compliance.png" alt="office-365-security--compliance" width="40" height="40"/> </a>
 <a href="https://intune.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/microsoft-intune.png" alt="Intune" width="40" height="40"/> </a>
 <a href="https://www.vmware.com/products/workspace-one/mobile-application-management.html" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/workspace-one.png" alt="workspace-one" width="40" height="40"/> </a>
+<a href="https://www.jamf.com/products/jamf-pro/" target="_blank" rel="noreferrer"> <img src="https://resources.jamf.com/images/logos/Jamf-Icon-color.png" alt="workspace-one" width="40" height="40"/> </a>
+<a href="https://www.tanium.com/" target="_blank" rel="noreferrer"> <img src="https://www.tanium.com/wp-content/uploads/Logo_Tanium_Primary-White_RGB.png" alt="workspace-one" width="40" height="40"/> </a>
 
 
 
