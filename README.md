@@ -28,8 +28,8 @@
 <a href="https://intune.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/microsoft-intune.png" alt="Intune" width="40" height="40"/> </a>
 <a href="https://www.vmware.com/products/workspace-one/mobile-application-management.html" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/workspace-one.png" alt="workspace-one" width="40" height="40"/> </a>
 <a href="https://www.jamf.com/products/jamf-pro/" target="_blank" rel="noreferrer"> <img src="https://resources.jamf.com/images/logos/Jamf-Icon-color.png" alt="workspace-one" width="40" height="40"/> </a>
-<a href="https://www.tanium.com/" target="_blank" rel="noreferrer"> <img src="https://www.tanium.com/wp-content/uploads/Logo_Tanium_Primary-White_RGB.png" alt="workspace-one" width="40" height="40"/> </a>
-
+<a href="https://www.tanium.com/" target="_blank" rel="noreferrer"> <img src="https://companieslogo.com/img/orig/tanium-b98c2342.png" alt="workspace-one" width="40" height="40"/> </a>
+<a href="https://www.okta.com/" target="_blank" rel="noreferrer"> <img src="https://images.seeklogo.com/logo-png/33/1/okta-logo-png_seeklogo-336628.png" alt="workspace-one" width="40" height="40"/> </a>
 
 
 <h3 align="left">🔭 GitHub Highlights:</h3>
