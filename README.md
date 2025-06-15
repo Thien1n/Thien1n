@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences: **[Thientrinh's CV](https://www.topcv.vn/xem-cv/B1JVUQAOUAMBUlUGBwgGCgJcU1IBAAYFAVMAUAd954)**
 
-- ⚡ My site: **[it.trinhthanhthien.id.vn](https://it.trinhthanhthien.id.vn)**
+- ⚡ My site: **[mdm.trinhthanhthien.id.vn](https://mdm.trinhthanhthien.id.vn)**
 
 <h3 align="left">👀 Connect with me:</h3>
 <p align="left">
