@@ -13,7 +13,7 @@
 
 <h3 align="left">👀 Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/thien-thanh-3a6803161/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thien1n" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/thientrinhit/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thien1n" height="30" width="40" /></a>
 <a href="https://www.reddit.com/user/ThienTrinhIT/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="thien1n" height="30" width="40" /></a>
 <a href="https://www.instagram.com/thien.trinh.399/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thien1n" height="30" width="40" /></a>
 <a href="https://www.facebook.com/thien.trinh.399/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thien1n" height="30" width="40" /></a>
